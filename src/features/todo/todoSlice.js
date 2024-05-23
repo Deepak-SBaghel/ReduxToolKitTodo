@@ -1,5 +1,6 @@
 import { createSlice,nanoid } from "@reduxjs/toolkit";
 
+// slice is where u make the reducer
 // slce require 3 things 
 // name , initial state , reducer
 // reducer will have all the function which will modify the state
